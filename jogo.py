@@ -1,4 +1,4 @@
-##### PROGRAMADO POR: LORENNA LAIENY #####
+#####  #####
 
 from time import sleep
 from random import randint
@@ -289,4 +289,5 @@ _____|_____|_____
         print('\n-----------------------------------------------------')
         continue
     else:
+
         sys.exit(0)
